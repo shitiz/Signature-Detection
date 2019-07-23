@@ -6,3 +6,5 @@ I have referred one research paper written by İlkhan Cüceloğlu & Hasan Oğul 
 First, I am reading the contract image and passing it to "SaveCroppedSigImages" function to save the croppped images with block of signatures. After which all the cropped signature blocks are read and preprocessed with Open CV Erode function to make the image more clear for detection. Then connected components are found with countours on it to check whether there are signatures present or not in each of the cropped block of signature. 
 
 Please mail me for any comments or suggestions at shitizaggarwal.ai@gmail.com
+
+Note:- I am uploading the sample input & output image for reference as I cannot share the actual files on which I have tested.
